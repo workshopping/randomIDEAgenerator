@@ -25,10 +25,11 @@ var funksjon = [
 	"Forum",
 	"Forside",
 	"Nettbutikk",
-	"Infoside"
+	"Infoside",
+	"Visuell læring"
 ];
 
-var yrke = [
+var yrke = [   //kan også være fagfelt
 	"begravelsesbyrå",
 	"guitarbutikk",
 	"grafiskdesign",
@@ -37,7 +38,15 @@ var yrke = [
 	"russisk propaganda",
 	"konspirasjons teorier",
 	"voksene memes",
-	"memes"
+	"memes",
+	"naturfag",
+	"verdensrommet",
+	"kjemi",
+	"kode",
+	"lyddesigner",
+	"vfx",
+	
+	
 ];
 
 var basert = [
